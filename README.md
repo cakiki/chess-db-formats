@@ -16,3 +16,5 @@ You can use a given format's `.ksy` file to generate a parser for that format in
 - Python
 - Ruby
 - Rust
+
+Feel free to submit a PR with a Kaitai parser for any format you like, or open an issue to suggest formats you'd like parsers for.
