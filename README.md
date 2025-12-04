@@ -1,4 +1,4 @@
-# chess-db-formats
+# chess-file-formats
 
 A collection of [Kaitai Structs](https://kaitai.io/) to parse binary chess tablebases, databases, and miscellaneous binary file formats.
 
